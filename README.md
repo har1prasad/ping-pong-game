@@ -44,3 +44,5 @@
    - How do we keep the game running until a certain condition is met (e.g., a player reaches a certain score)?
 
 By breaking down the project into these questions and answering them step by step, you can approach the development of your Pong game systematically. Let me know if you need further details on any of these aspects!
+
+i also want to make this and the snake game as a study material
